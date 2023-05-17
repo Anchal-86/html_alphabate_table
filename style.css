@@ -1,0 +1,106 @@
+.header {
+  background-color: rgb(4, 202, 136);
+  height: 90px;
+}
+h1 {
+  border-top: 15px solid rgb(0, 139, 99);
+  text-align: center;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  border: 5px solid black;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-left: 350px;
+  background-color: rgb(18, 87, 215);
+  height: 500px;
+  width: 800px;
+}
+.table1 {
+  background-color: chartreuse;
+}
+.table2 {
+  background-color: darkred;
+}
+.table3 {
+  background-color: gray;
+}
+.table4 {
+  background-color: mediumvioletred;
+}
+.table5 {
+  background-color: blueviolet;
+}
+.table6 {
+  background-color: blueviolet;
+}
+.table7 {
+  background-color: chartreuse;
+}
+.table8 {
+  background-color: darkred;
+}
+.table9 {
+  background-color: gray;
+}
+.table10 {
+  background-color: mediumvioletred;
+}
+.table11 {
+  background-color: mediumvioletred;
+}
+
+.table12 {
+  background-color: blueviolet;
+}
+.table13 {
+  background-color: chartreuse;
+}
+.table14 {
+  background-color: darkred;
+}
+.table15 {
+  background-color: gray;
+}
+.table16 {
+  background-color: gray;
+}
+.table17 {
+  background-color: mediumvioletred;
+}
+.table18 {
+  background-color: blueviolet;
+}
+.table19 {
+  background-color: chartreuse;
+}
+.table20 {
+  background-color: darkred;
+}
+.table21 {
+  background-color: darkred;
+}
+.table22 {
+  background-color: gray;
+}
+.table23 {
+  background-color: mediumvioletred;
+}
+.table24 {
+  background-color: blueviolet;
+}
+.table25 {
+  background-color: chartreuse;
+}
+
+.table26 {
+  background-color: rgb(4, 202, 136);
+  grid-column: 6/-6;
+}

@@ -175,3 +175,6 @@ h1 {
   border: 5px solid rgb(255, 94, 0);
   grid-column: 6/-6;
 }
+.swal-overlay {
+  background-color: rgba(43, 165, 137, 0.45);
+}

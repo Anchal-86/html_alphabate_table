@@ -54,7 +54,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  
 }
 .table1 {
   background-color: rgb(255, 94, 0);
@@ -175,40 +174,4 @@ h1 {
   background-color: white;
   border: 5px solid rgb(255, 94, 0);
   grid-column: 6/-6;
-}
-.Explain {
-  display: flex;
-  gap: 10px;
-  margin: 15px;
-}
-
-.Explore {
-  height: 500px;
-  width: 550px;
-  background-color: #fff;
-  color: black;
-  font-size: 150px;
-  border: none;
-  font-family: cursive;
-  font-weight: bold;
-  box-shadow: 2px 2px 2px 2px rgb(176, 176, 176);
-  gap: 10px;
-  border-radius: 20px;
-}
-
-.msg2,
-.msg4,
-.msg6,
-.msg8,
-.msg10,
-.msg12,
-.msg14,
-.msg16,
-.msg18,
-.msg20,
-.msg22,
-.msg24,
-.msg26 {
-  background-color: rgb(255, 94, 0);
-  box-shadow: 2px 2px 2px 2px rgb(239, 131, 69);
 }
